@@ -1,6 +1,16 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org/",
+      "scopes": [
+        "com.3d-group"
+      ]
+    }
+  ],
   "dependencies": {
-    "com.unity.ai.navigation": "1.1.4",
+    "com.3d-group.unity-simple-notifications": "1.0.0",
+    "com.unity.ai.navigation": "1.1.5",
     "com.unity.collab-proxy": "2.5.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",

@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Zombies.unity
-    guid: feec8cb72a9f14d9db54012b6b9412f8
+    path: Assets/Team/Scenes/TestScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Team/Scenes/TournamentScene.unity
+    guid: 7a5e87498c886ae4db4cc490b577ca8e
+  - enabled: 1
+    path: Assets/Team/Scenes/TournamentArenaScene.unity
+    guid: bcba8fc8823b64a42ba90002f34169d2
   m_configObjects: {}

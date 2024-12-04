@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Maze
+  - Fire
+  - Pet
+  - Farm
+  - Tournament
+  - Interactable
   layers:
   - Default
   - TransparentFX
